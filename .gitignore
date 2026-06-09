@@ -1,0 +1,6 @@
+tensorflow_project/tf_env/
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
