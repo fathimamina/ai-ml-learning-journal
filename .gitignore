@@ -1,6 +1,16 @@
-tensorflow_project/tf_env/
+# Virtual Environments
+tf_env/
+**/tf_env/
+
 venv/
+**/venv/
+
 .venv/
+**/.venv/
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
 *.pyc
+
+# Jupyter
+.ipynb_checkpoints/
