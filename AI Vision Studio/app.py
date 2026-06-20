@@ -2,11 +2,13 @@ import streamlit as st
 import cv2
 import numpy as np
 
+
+
 from modules.preprocessing import *
 from modules.augmentation import *
 
 st.set_page_config(
-    page_title="AI Vision Studio",
+    page_title="AI Vision Studio (opencv)",
     layout="wide"
 )
 
