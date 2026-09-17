@@ -1,0 +1,12 @@
+texts = [
+    "English: Hello\nFrench: Bonjour",
+    "English: Good morning\nFrench: Bonjour",
+    "English: Good night\nFrench: Bonne nuit",
+    "English: Thank you\nFrench: Merci",
+    "English: Please\nFrench: S'il vous plaît",
+    "English: Yes\nFrench: Oui",
+    "English: No\nFrench: Non",
+    "English: I love you\nFrench: Je t'aime",
+    "English: How are you?\nFrench: Comment allez-vous?",
+    "English: Goodbye\nFrench: Au revoir"
+]
